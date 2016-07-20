@@ -14,7 +14,7 @@
 
 * Restart icinga service:
 
-    service icinga2 restart
+     service icinga2 restart
 
 Or:
 
